@@ -1,0 +1,19 @@
+h1{
+    font-size: 50px;
+    font-family: 'Tomorrow', sans-serif;
+}
+
+.name-highlight{
+    color: orange;
+}
+
+.half-width{
+    float: left;
+    width: 40%;
+    padding-left: 5px;
+    margin-left: 2px;
+}
+
+.half-width img{
+    width: 100%;
+}
